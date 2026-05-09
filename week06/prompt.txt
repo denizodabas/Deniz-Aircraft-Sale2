@@ -1,0 +1,78 @@
+BRAND PERSONA PROMPT:
+
+DENIZ AIRCRAFT SALES - BRAND PERSONA
+
+1. Personality & Tone: "The Modern Navigator"
+Tone: Sophisticated, Transparent, and Dynamic.
+Unlike traditional, old-school aviation brokerage, Deniz Aircraft Sales feels like a high-end tech concierge. It is minimalist and efficient, using clear language to demystify the aircraft acquisition process. It values precision over fluff and builds trust through expertise rather than sales pressure.
+
+2. Color Palette
+This palette evokes the horizon line where the sea meets the sky: Professional, deep, and expansive.
+- Deep Horizon Blue: #1B263B (Authority, trust, and the deep ocean)
+- Aero Silver: #E0E1DD (Polished aluminum, modernity, and clarity)
+- Mediterranean Teal: #0D6E6E (Connection to the "Deniz" name; vibrant yet calm)
+
+3. Typography Suggestions (Google Fonts)
+- Headings: Montserrat (Bold/700)
+  Why: Geometric and clean, echoing the structural lines of an aircraft wing.
+- Body Text: Inter (Regular/400)
+  Why: Highly legible and tech-forward; perfect for technical spec sheets and digital interfaces.
+
+4. 2-Sentence Marketing Pitch
+"At Deniz Aircraft Sales, we bridge the gap between the horizon and your ambitions through a transparent, data-driven acquisition process. Whether you are scaling a fleet or soaring for the first time, we ensure your transition to the skies is as fluid as the sea itself."
+
+
+
+UI GENERATION PROMPT:
+
+
+
+DENIZ AIRCRAFT SALES - BRAND PERSONA
+
+1. Personality & Tone: "The Modern Navigator"
+Tone: Sophisticated, Transparent, and Dynamic.
+Unlike traditional, old-school aviation brokerage, Deniz Aircraft Sales feels like a high-end tech concierge. It is minimalist and efficient, using clear language to demystify the aircraft acquisition process. It values precision over fluff and builds trust through expertise rather than sales pressure.
+
+2. Color Palette
+This palette evokes the horizon line where the sea meets the sky: Professional, deep, and expansive.
+- Deep Horizon Blue: #1B263B (Authority, trust, and the deep ocean)
+- Aero Silver: #E0E1DD (Polished aluminum, modernity, and clarity)
+- Mediterranean Teal: #0D6E6E (Connection to the "Deniz" name; vibrant yet calm)
+
+3. Typography Suggestions (Google Fonts)
+- Headings: Montserrat (Bold/700)
+  Why: Geometric and clean, echoing the structural lines of an aircraft wing.
+- Body Text: Inter (Regular/400)
+  Why: Highly legible and tech-forward; perfect for technical spec sheets and digital interfaces.
+
+4. 2-Sentence Marketing Pitch
+"At Deniz Aircraft Sales, we bridge the gap between the horizon and your ambitions through a transparent, data-driven acquisition process. Whether you are scaling a fleet or soaring for the first time, we ensure your transition to the skies is as fluid as the sea itself."
+
+
+
+IMAGE GENERATION PROMPT:
+
+
+Generate a high-quality Hero Image or Gallery image that matches my brand persona.
+
+DENIZ AIRCRAFT SALES - BRAND PERSONA
+
+1. Personality & Tone: "The Modern Navigator"
+Tone: Sophisticated, Transparent, and Dynamic.
+Unlike traditional, old-school aviation brokerage, Deniz Aircraft Sales feels like a high-end tech concierge. It is minimalist and efficient, using clear language to demystify the aircraft acquisition process. It values precision over fluff and builds trust through expertise rather than sales pressure.
+
+2. Color Palette
+This palette evokes the horizon line where the sea meets the sky: Professional, deep, and expansive.
+- Deep Horizon Blue: #1B263B (Authority, trust, and the deep ocean)
+- Aero Silver: #E0E1DD (Polished aluminum, modernity, and clarity)
+- Mediterranean Teal: #0D6E6E (Connection to the "Deniz" name; vibrant yet calm)
+
+3. Typography Suggestions (Google Fonts)
+- Headings: Montserrat (Bold/700)
+  Why: Geometric and clean, echoing the structural lines of an aircraft wing.
+- Body Text: Inter (Regular/400)
+  Why: Highly legible and tech-forward; perfect for technical spec sheets and digital interfaces.
+
+4. 2-Sentence Marketing Pitch
+"At Deniz Aircraft Sales, we bridge the gap between the horizon and your ambitions through a transparent, data-driven acquisition process. Whether you are scaling a fleet or soaring for the first time, we ensure your transition to the skies is as fluid as the sea itself."
+
